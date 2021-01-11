@@ -15,12 +15,11 @@ namespace OTPReader
     {
         static void Main(string[] args)
         {/*/
-            string otp="";
-
+            string otp="" ;
             //To login in please use
             Console.WriteLine(otp);
-
             Console.ReadLine();
+            //test
             /*/
 
             Logger.InitializeLogger();
