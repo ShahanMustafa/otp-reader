@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTPReader", "OTPReader\OTPReader.csproj", "{D34524F4-D291-4D2A-A7D2-9675017FE740}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{991616F5-DD8F-4CB0-A534-1116E2429A1A}"
+	ProjectSection(SolutionItems) = preProject
+		Flow.bmp = Flow.bmp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34524F4-D291-4D2A-A7D2-9675017FE740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34524F4-D291-4D2A-A7D2-9675017FE740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34524F4-D291-4D2A-A7D2-9675017FE740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34524F4-D291-4D2A-A7D2-9675017FE740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F801FF14-B706-45D7-A332-EEAABCC90C71}
+	EndGlobalSection
+EndGlobal
